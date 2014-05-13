@@ -1,8 +1,8 @@
 # dogeared-search
 
-This is a placeholder repository for search functionality in [dogeared-www]().
+This is a placeholder repository for search functionality in [dogeared-extruder](https://github.com/straup/dogeared-extruder) and [dogeared-www](https://github.com/straup/dogeared-www).
 
 ## See also
 
-* dogeared-www
-* dogeared-extruder
+* https://github.com/straup/dogeared-extruder
+* https://github.com/straup/dogeared-www
